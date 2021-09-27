@@ -1,4 +1,4 @@
-# cirseq
+# CirSeq
 
 # Method description
 
